@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1708153501,,"wq"
+|2,0,1708155760,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,35 +23,150 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	BLOCK	0
+"1	BLOCK	0
 	
 	s
-|3,1,1,2,2,0,1708151526,"","s"
-"-	CHAR	0
-	w
-|3,0,36,0,1,0,1708151522,"w"
+|3,0,1,2,2,0,1708151526,"","s"
+""-	CHAR	0
+	i
+|3,1,36,0,1,0,1708155746,"i"
 
 # File marks:
-'0  73  0  ~/demo.txt
-|4,48,73,0,1708153501,"~/demo.txt"
-'1  52  0  ~/demo/onefile.txt
-|4,49,52,0,1708151585,"~/demo/onefile.txt"
+'0  2  7  ~/2.txt
+|4,48,2,7,1708155760,"~/2.txt"
+'1  2  7  ~/2.txt
+|4,49,2,7,1708155634,"~/2.txt"
+'2  1  19  ~/2.txt
+|4,50,1,19,1708155559,"~/2.txt"
+'3  1  19  ~/2.txt
+|4,51,1,19,1708155559,"~/2.txt"
+'4  1  19  ~/2.txt
+|4,52,1,19,1708155559,"~/2.txt"
+'5  1  19  ~/2.txt
+|4,53,1,19,1708155559,"~/2.txt"
+'6  73  0  ~/demo.txt
+|4,54,73,0,1708153501,"~/demo.txt"
+'7  52  0  ~/demo/onefile.txt
+|4,55,52,0,1708151585,"~/demo/onefile.txt"
 
 # Jumplist (newest first):
+-'  2  7  ~/2.txt
+|4,39,2,7,1708155760,"~/2.txt"
+-'  2  7  ~/2.txt
+|4,39,2,7,1708155634,"~/2.txt"
+-'  1  19  ~/2.txt
+|4,39,1,19,1708155617,"~/2.txt"
+-'  1  19  ~/2.txt
+|4,39,1,19,1708155617,"~/2.txt"
+-'  1  19  ~/2.txt
+|4,39,1,19,1708155559,"~/2.txt"
 -'  73  0  ~/demo.txt
 |4,39,73,0,1708153501,"~/demo.txt"
+-'  73  0  ~/demo.txt
+|4,39,73,0,1708153501,"~/demo.txt"
+-'  73  0  ~/demo.txt
+|4,39,73,0,1708153501,"~/demo.txt"
+-'  73  0  ~/demo.txt
+|4,39,73,0,1708153501,"~/demo.txt"
+-'  73  0  ~/demo.txt
+|4,39,73,0,1708153501,"~/demo.txt"
+-'  73  0  ~/demo.txt
+|4,39,73,0,1708153501,"~/demo.txt"
+-'  73  0  ~/demo.txt
+|4,39,73,0,1708153501,"~/demo.txt"
+-'  73  0  ~/demo.txt
+|4,39,73,0,1708153501,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1708153446,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1708153446,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1708153446,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1708153446,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1708153446,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1708153446,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1708153446,"~/demo.txt"
 -'  1  0  ~/demo.txt
 |4,39,1,0,1708153446,"~/demo.txt"
 -'  52  0  ~/demo/onefile.txt
 |4,39,52,0,1708151585,"~/demo/onefile.txt"
 -'  52  0  ~/demo/onefile.txt
 |4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
 -'  1  0  ~/demo/onefile.txt
 |4,39,1,0,1708151275,"~/demo/onefile.txt"
 -'  1  0  ~/demo/onefile.txt
 |4,39,1,0,1708151275,"~/demo/onefile.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/2.txt
+	*	1708155757	0
+	"	2	7
+	^	2	8
+	.	1	5
+	+	1	20
+	+	2	7
+	+	1	5
 
 > ~/demo.txt
 	*	1708153495	0
