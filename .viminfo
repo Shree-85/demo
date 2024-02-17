@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1708151585,,"wq"
+|2,0,1708153501,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -32,16 +32,34 @@
 |3,0,36,0,1,0,1708151522,"w"
 
 # File marks:
-'0  52  0  ~/demo/onefile.txt
-|4,48,52,0,1708151585,"~/demo/onefile.txt"
+'0  73  0  ~/demo.txt
+|4,48,73,0,1708153501,"~/demo.txt"
+'1  52  0  ~/demo/onefile.txt
+|4,49,52,0,1708151585,"~/demo/onefile.txt"
 
 # Jumplist (newest first):
+-'  73  0  ~/demo.txt
+|4,39,73,0,1708153501,"~/demo.txt"
+-'  1  0  ~/demo.txt
+|4,39,1,0,1708153446,"~/demo.txt"
+-'  52  0  ~/demo/onefile.txt
+|4,39,52,0,1708151585,"~/demo/onefile.txt"
 -'  52  0  ~/demo/onefile.txt
 |4,39,52,0,1708151585,"~/demo/onefile.txt"
 -'  1  0  ~/demo/onefile.txt
 |4,39,1,0,1708151275,"~/demo/onefile.txt"
+-'  1  0  ~/demo/onefile.txt
+|4,39,1,0,1708151275,"~/demo/onefile.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/demo.txt
+	*	1708153495	0
+	"	73	0
+	^	73	0
+	.	74	0
+	+	2	3
+	+	74	0
 
 > ~/demo/onefile.txt
 	*	1708151580	0
